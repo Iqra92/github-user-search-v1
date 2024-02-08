@@ -23,3 +23,8 @@ https://user-images.githubusercontent.com/56850413/165952437-1cba04ef-4b68-4f3c-
 
 ## Disclaimer
 The github api is public and it has a limit of 60 request for a unauthenticated user
+
+## Run Cypress Tests
+Open Cypress with: npx cypress open
+Run your tests through the Cypress UI.
+
